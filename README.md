@@ -1,4 +1,4 @@
 accounts-scala
 ==============
 
-Scala version of accounting
+Playing around with Scala
