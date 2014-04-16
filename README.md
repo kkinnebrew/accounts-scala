@@ -1,4 +1,4 @@
-accounts-scala
+scala-demo
 ==============
 
 Playing around with Scala
